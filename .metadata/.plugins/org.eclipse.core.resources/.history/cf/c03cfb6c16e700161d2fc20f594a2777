@@ -1,0 +1,2 @@
+x = 0 ;
+FOR 100 x += 1 ; ENDFOR

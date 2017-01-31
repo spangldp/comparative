@@ -1,0 +1,3 @@
+A = "X" ;
+FOR 1000 A += A ; ENDFOR
+PRINT A ;

@@ -1,10 +1,2 @@
-a = 3 ;
-a *= 30 ;
-b = 0 ;
-b += a ;
-b += b ;
-a = a ;
-a = 4 ;
-b *= 2 ;
-PRINT a ;
-PRINT b ;
+x = 0 ;
+FOR 10000000 x += 1 ; PRINT x ; ENDFOR
